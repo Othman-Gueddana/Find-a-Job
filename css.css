@@ -1,0 +1,68 @@
+
+.topnav {
+  overflow: hidden;
+  background-color: block;
+}
+.topnav a {
+  float: left;
+  color: #F2F2F2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #FEE7C5;
+  color: black;
+  border-radius: 350px
+}
+.topnav a.active {
+  background-color: #FEE7C5;
+  color: black;
+  border-radius: 350px
+}
+.logo img{
+	opacity: 1;
+	border-radius: 300px;
+	 position: relative;
+    top: -270px; 
+    width: auto;
+    height:150px;
+}
+	 
+.title{
+	text-align: center;
+	text-shadow: 8px 8px 8px BurlyWood;
+	font-size: 90px;
+	position: relative;
+	top: -50px;
+}
+.title1{
+	text-align: center;
+	text-shadow: 8px 8px 8px BurlyWood;
+	font-size: 50px;
+	position: relative;
+	top: -75px
+}
+.mainButton{
+	text-align: center;
+    position: relative;
+    top: -180px;
+
+
+}
+.mainButton button{
+	width: 300px;
+    height: 60px;
+    background-color: #FEE7C5;
+    border-radius: 250px
+}
+.bossButton button{
+	width: 300px;
+    height: 60px;
+    background-color: #FEE7C5;
+    border-radius: 250px
+}
+.bossButton button{
+	text-align: center;
+    position: relative;
